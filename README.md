@@ -4,7 +4,7 @@ Run **_git clone https://github.com/chryslog7/android.git_** via terminal, insid
 
 **_cd android/_** to verify the folder is successfully downloaded.
 
-# Instructions
+# Installation
 
 Download **_Android Studio_** its from official site : https://developer.android.com/studio 
 
