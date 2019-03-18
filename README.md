@@ -6,21 +6,20 @@ cd android/
 
 # Instructions
 
-Download Android Studio its from official site : https://developer.android.com/studio 
+Download **_Android Studio_** its from official site : https://developer.android.com/studio 
 
 Follow the necessary steps to install it, as well descibed in this tutorial  : https://www.youtube.com/watch?v=7vvMltQtfxY
 
 After installation is complete, launch Android Studio and click **_"Open an existing Android Studio project"_**.
 
-Browse to your project's folder (in this case, it is named android/inTouch/ after git cloning) and click OK.
+Browse to your project's folder (in this case, it is named **_android/inTouch/_** after git cloning) and click **_OK_**.
 
-When on project's environment, Click Project > inTouch > MainActivity.java, positioned on the left bar.
+When on project's environment, Click **_Project > inTouch > MainActivity.java_**, positioned on the left bar.
 
-Click Run (green button on top menu bar) or Shift + F10 to debug. REQUIRED : USB-connected Android Device or AVD installed.
+Click **_Run_** (green button on top menu bar) or Shift + F10 to debug. REQUIRED : USB-connected Android Device or AVD installed.
 
 Enjoy your time.
 
-
 # Contribution
 
-If you have any ideas and willing for optimization, you can contribute to this project anytime you wish.
+If you have any **_ideas_** and **_willing_** for optimization, you can contribute to this project anytime you wish.
