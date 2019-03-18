@@ -8,7 +8,7 @@ Run **_git clone https://github.com/chryslog7/android.git_** via terminal, insid
 
 Download **_Android Studio_** its from official site : https://developer.android.com/studio 
 
-Follow the necessary steps to **_install it_**, as well described in this tutorial  : https://www.youtube.com/watch?v=7vvMltQtfxY
+Follow the necessary steps to **_install_** it, as well described in this tutorial  : https://www.youtube.com/watch?v=7vvMltQtfxY
 
 After installation is complete, **_launch_** Android Studio and click **_"Open an existing Android Studio project"_**.
 
