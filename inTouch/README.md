@@ -1,4 +1,4 @@
-# inTouch Project
+# inTouch
 
 This project is created for educational purposes, by **_Chrys Logaras_**, **_Panayiotis Tsampounaris_** and **_Stefanos Tsampounaris_**, post-graduate students in **_University of Piraeus, Greece_**.
 
