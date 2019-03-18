@@ -4,16 +4,15 @@ git clone https://github.com/chryslog7/android.git on a folder of your decision,
 
 cd android/ 
 
-
 # Instructions
 
 Download Android Studio its from official site : https://developer.android.com/studio 
 
 Follow the necessary steps to install it, as well descibed in this tutorial  : https://www.youtube.com/watch?v=7vvMltQtfxY
 
-After installation is complete, launch Android Studio and click "Open an existing Android Studio project".
+After installation is complete, launch Android Studio and click **__"Open an existing Android Studio project"__**.
 
-Browse to your project's folder (in this case, it is named android/ after git cloning) and click OK.
+Browse to your project's folder (in this case, it is named android/inTouch/ after git cloning) and click OK.
 
 When on project's environment, Click Project > inTouch > MainActivity.java, positioned on the left bar.
 
