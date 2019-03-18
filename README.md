@@ -1,8 +1,8 @@
 # Git Repository
 
-git clone https://github.com/chryslog7/android.git on a folder of your decision, then
+Run **_git clone https://github.com/chryslog7/android.git _** via terminal, inside a folder of your decision, then
 
-cd android/ 
+**_ cd android/ _** to verify the folder is successfully downloaded.
 
 # Instructions
 
