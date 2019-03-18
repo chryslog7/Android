@@ -16,7 +16,7 @@ Browse to your project's folder (in this case, it is named **_android/inTouch/_*
 
 When on project's environment, Click **_Project > inTouch > MainActivity.java_**, positioned on the left bar.
 
-Click **_Run_** (green button on top menu bar) or Shift + F10 to debug. REQUIRED : USB-connected Android Device or AVD installed.
+Click **_Run_** (green button on top menu bar) or **_Shift + F10_** to debug. **REQUIRED** : USB-connected Android Device or AVD installed.
 
 Enjoy your time.
 
