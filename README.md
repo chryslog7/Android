@@ -12,7 +12,7 @@ Follow the necessary steps to install it, as well described in this tutorial  : 
 
 After installation is complete, launch Android Studio and click **_"Open an existing Android Studio project"_**.
 
-Browse to your project's folder (in this case, it is named **_android/inTouch/_** after git cloning) and click **_OK_**.
+Browse to your project's folder (e.g. **_android/inTouch/_**) and click **_OK_**.
 
 When on project's environment, Click **_Project > inTouch > MainActivity.java_**, positioned on the left bar.
 
