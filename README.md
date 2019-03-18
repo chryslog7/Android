@@ -1,5 +1,3 @@
-This repository contains projects created in Android Studio. 
-
 # Git Repository
 
 git clone https://github.com/chryslog7/android.git on a folder of your decision, then
