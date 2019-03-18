@@ -8,11 +8,11 @@ Run **_git clone https://github.com/chryslog7/android.git_** via terminal, insid
 
 Download **_Android Studio_** its from official site : https://developer.android.com/studio 
 
-Follow the necessary steps to install it, as well described in this tutorial  : https://www.youtube.com/watch?v=7vvMltQtfxY
+Follow the necessary steps to **_install it_**, as well described in this tutorial  : https://www.youtube.com/watch?v=7vvMltQtfxY
 
-After installation is complete, launch Android Studio and click **_"Open an existing Android Studio project"_**.
+After installation is complete, **_launch_** Android Studio and click **_"Open an existing Android Studio project"_**.
 
-Browse to your project's folder (e.g. **_android/inTouch/_**) and click **_OK_**.
+**_Browse_** to your project's folder (e.g. **_android/inTouch/_**) and click **_OK_**.
 
 When on project's environment, Click **_Project > inTouch > MainActivity.java_**, positioned on the left bar.
 
